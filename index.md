@@ -4,9 +4,5 @@ I am a junior in Data Science at Iowa State University, planning to graduate in 
 
 test
 
-![Past Course Work](/cartermeseck.github.io/Team46_FinalProject.pdf)
+[Link to Previous Course Work](https://drive.google.com/file/d/1HvaB4gt4TFv-UC8E8dTiyzLhGIcOCv_X/view?usp=sharing)
 
-
-<a href="cartermeseck.github.io/Team46_FinalProject.pdf" target="_blank">PDF.</a>
-
-<embed src="cartermeseck.github.io/Team46_FinalProject.pdf" type="application/pdf" />
